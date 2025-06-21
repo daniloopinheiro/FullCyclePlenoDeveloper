@@ -1,5 +1,7 @@
 # Fluxo de Estudo para um Pleno Developer
 
+[![Check Markdown Links](https://github.com/daniloopinheiro/FullCyclePlenoDeveloper/actions/workflows/check-links.yml/badge.svg?branch=main&event=push)](https://github.com/daniloopinheiro/FullCyclePlenoDeveloper/actions/workflows/check-links.yml)
+
 1. **Fundamentos da Arquitetura de Software**
    - **Objetivo**: Entender os princípios básicos da arquitetura.
    - **Atividades**: Leitura de livros e artigos sobre diferentes tipos de arquitetura.
