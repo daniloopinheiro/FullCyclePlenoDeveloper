@@ -77,3 +77,7 @@
 ### Conclusão
 
 Esse fluxo oferece uma estrutura abrangente para o desenvolvimento das habilidades de um desenvolvedor pleno, combinando teoria e prática. Com cada etapa, o desenvolvedor deve focar em projetos práticos e colaboração para maximizar o aprendizado. Se precisar de recursos ou materiais adicionais, é só avisar!
+
+---
+
+<p align="center"> Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> </p>
